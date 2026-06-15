@@ -1,0 +1,9 @@
+patient_id,patient_name,age,visit_date,procedure,procedure_code,charge_amount,insurance_status,claim_status,error_flag
+1,John Smith,34,2024-01-10,Checkup,D001,120,Insured,Approved,No
+2,Amy Lee,45,2024-01-12,X-Ray,R203,300,Insured,Denied,Yes
+3,Mark Davis,29,2024-01-15,Cleaning,D002,90,Uninsured,Pending,No
+4,Sara Khan,52,2024-01-18,Surgery,S010,2500,Insured,Approved,No
+5,David Brown,40,2024-01-20,Checkup,D001,120,Insured,Denied,Yes
+6,Lisa White,37,2024-01-22,X-Ray,R203,300,Insured,Approved,No
+7,James Wilson,60,2024-01-25,Surgery,S010,2700,Insured,Denied,Yes
+8,Nina Patel,31,2024-01-28,Cleaning,D002,90,Uninsured,Approved,No
